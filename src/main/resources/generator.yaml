@@ -1,0 +1,13 @@
+db:
+  url: jdbc:mysql://172.31.20.2:3306/amount
+  username: root
+  password: sjroot
+author: gongjinyi
+packageName: com.zero
+path:
+  controller: interfaces
+  service: service.impl
+  interf: service
+  dao: persistence
+  entity: model
+  mapper: mapper
